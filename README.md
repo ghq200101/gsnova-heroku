@@ -2,4 +2,4 @@
 适用于 gsnova 0.33.0 以上版本 
 
 # 参考
-https://github.com/yinqiwen/gsnova
+https://github.com/ghq200101/gsnova
